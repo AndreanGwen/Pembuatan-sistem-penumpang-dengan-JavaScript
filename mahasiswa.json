@@ -1,0 +1,15 @@
+[
+  {
+    "nama": "Andrean",
+    "kelas": 12,
+    "jurusan": "TJKT"
+  },
+
+  {
+    "nama": "Satriya",
+    "kelas": 10,
+    "jurusan": "RPL"
+  },
+
+  { "nama": "Erik Ferdiansyah", "kelas": 11, "jurusan": "MM" }
+]
